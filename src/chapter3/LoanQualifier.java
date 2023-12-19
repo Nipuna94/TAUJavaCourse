@@ -1,6 +1,5 @@
 package chapter3;
 
-import javax.sound.midi.Soundbank;
 import java.util.Scanner;
 
 /*
