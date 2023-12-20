@@ -15,7 +15,7 @@ public class LoanQualifierLogical {
         double salary = 3000;
         double years = 2;
 
-        //Ask for what we dont know
+        //Ask for what we don't know
         System.out.println("Whats your current salary:");
         Scanner scanner = new Scanner(System.in);
         double currentSalary = scanner.nextDouble();
