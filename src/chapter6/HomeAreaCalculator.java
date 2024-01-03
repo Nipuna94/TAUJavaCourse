@@ -14,15 +14,21 @@ public class HomeAreaCalculator {
         room1.setLength(50);
         double areaOfRoom1 = room1.calculateArea();
 
+        double perimeterOfRoom1 = room1.calculatePerimeter();
+
         /******** RECTANGLE 2 *******/
 
         //Create instance of Rectangle class
         Rectangle room2 = new Rectangle(30,75);
         double areaOfRoom2 = room2.calculateArea();
 
+        double perimeterOfRoom2 = room2.calculatePerimeter();
+
         double totalArea = areaOfRoom1 + areaOfRoom2;
+        double totalPerimeter = perimeterOfRoom1 + perimeterOfRoom2;
 
         System.out.println("Area of both rooms: " + totalArea);
+        System.out.println("Perimeter of both rooms: " + totalPerimeter);
 
 
     }
