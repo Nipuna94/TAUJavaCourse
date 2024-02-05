@@ -1,0 +1,13 @@
+
+2
+java:S1700"Rename field "grades"(ÖşÎ´8˜¬‹¬Ö1
+_
+java:S2184'"BCast one of the operands of this division operation to a "double".(Ô§é˜8™¬‹¬Ö1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÅÎ§á8™¬‹¬Ö1
+G
+java:S1197"*Move the array designators [] to the type.(ÖşÎ´8¡¬‹¬Ö1
+G	java:S106"+Replace this use of System.out by a logger.(ñ‘È8¤¬‹¬Ö1
+G	java:S106"+Replace this use of System.out by a logger.(´Î×ä8¤¬‹¬Ö1
+G	java:S106"+Replace this use of System.out by a logger.(õñšà8¥¬‹¬Ö1
+G	java:S106"+Replace this use of System.out by a logger.(¹¯í¬8š‰“¬Ö1
+L	java:S106"+Replace this use of System.out by a logger.(˜§½¿ûÿÿÿÿ8åË”¬Ö1
